@@ -1,0 +1,5 @@
+selenium
+pyautogui
+opencv-python
+numpy
+pillow
